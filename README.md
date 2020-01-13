@@ -1,4 +1,4 @@
-# 🍪 Cookie Clicker V1
+# 💩 Poo Clicker V1
 
 ## ◾ Features
 
