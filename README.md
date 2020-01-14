@@ -113,7 +113,7 @@ JavaScript.
 
 - [x] Initialize the ReadMe and the trello.
 - [x] Work on the main project.
-- [ ] Launch the app.
+- [x] Launch the website.
 
 ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
@@ -124,8 +124,8 @@ JavaScript.
 📲 V1.0.1
 Logs
    - Readme initialized.
-   - ...
-   - ...
+   - First version of the global webiste's design.
+   - Basic cookie-clicker working.
    - ...
 
 <hr>
